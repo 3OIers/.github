@@ -1,3 +1,3 @@
 ~~Inspiration by The Three Musketeers~~  
 Our mission is:  
-# Make OI a better place!
+# Make OI a better subject!
